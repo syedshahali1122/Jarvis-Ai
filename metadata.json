@@ -1,0 +1,5 @@
+{
+  "name": "Jarvis AI",
+  "description": "A voice-activated AI assistant inspired by Jarvis, capable of real-time conversation and following commands.",
+  "requestFramePermissions": ["microphone", "display-capture"]
+}
